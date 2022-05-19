@@ -1,0 +1,96 @@
+.back {
+    text-align: left;
+    font-family: 'Open Sans', sans-serif;
+    color:cadetblue;
+    font-size: 15px;
+}
+
+.garis {
+    margin-left: 35px;
+    margin-bottom: 25px;
+}
+.file {
+    margin-left: -9px;
+}
+
+{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+body{
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: repeat-y;
+}
+p {
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+
+}
+
+.jdlh3 {
+        font-size: 20px;
+        text-align: center;
+        padding-bottom: 5px;
+        font-weight: bold;
+}
+.judul {
+    color: rgba(0,0,0,.7);
+    text-align: center;
+}
+
+a {
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+}
+.kotak{
+    position: absolute;
+    left: 50%;
+    top: 40%;
+    transform: translate(-50%,-50%);
+    padding: 40px 45px;
+    width: 350px;
+    height: 290px;
+    background-color: whitesmoke;
+    box-shadow: greenyellow);
+}
+.komen {
+    background-color: white;
+}
+.kotak h1{
+    text-align: left;
+    color: #fafafa;
+    margin-bottom: 30px;
+    text-transform: uppercase;
+  
+}
+.kotak label{
+    text-align: left;
+    color: black;
+}
+.kotak form input{
+    width: calc(100% - 20px);
+    padding: 8px 10px;
+    margin-bottom: 15px;
+    border: none;
+    background-color: white;
+    color: black;
+    font-size: 12px;
+}
+.kotak input[type=file] {
+    background-color: ;
+}
+.kirim{
+    width: 100%;
+    height: 30px;
+
+    border: gray;
+    background-color:gray;
+    font-size: 18px;
+    color: #fafafa;
+    border-radius: 5px;
+}
