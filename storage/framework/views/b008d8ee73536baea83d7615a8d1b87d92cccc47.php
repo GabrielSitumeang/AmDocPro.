@@ -1,1 +1,0 @@
-<h1>Welcome, Admin</h1><?php /**PATH E:\LARAVEL\kelompok-03\resources\views/dashboard/index.blade.php ENDPATH**/ ?>
